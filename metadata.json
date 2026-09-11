@@ -1,0 +1,10 @@
+{
+  "name": "UrduBazars POS & E-Commerce",
+  "description": "Enterprise Point of Sale (POS) system and separated e-commerce platform for UrduBazars.com with real-time inventory synchronization, camera QR payment scanner, thermal receipts, and cashier workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
